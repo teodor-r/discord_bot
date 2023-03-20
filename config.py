@@ -1,4 +1,4 @@
-TOKEN = 'NzIzMzkwNjc5MDEwNzcwOTg4.Xuw_rg.LHztjaErBQiO1q_cgIt22f-IYEI'
+TOKEN = ''
 
 EMOJI = [":⚰️"," 💣 ", "🧨 ", '🧠']
 INFO = "\n 🦉 " \
